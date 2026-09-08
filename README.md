@@ -37,6 +37,8 @@ Principais Processos do Sistema
 * Inclusão de produtos nos pedidos.
 * Registro dos pagamentos.
 * Acompanhamento do status dos pedidos.
+  
+
 * Consulta das informações dos produtos e clientes.
 
  Objetivo
